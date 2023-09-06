@@ -13,3 +13,5 @@ I used the following KPIs:
 7. Total Sales by Product
 8. Customers Density
 9. Number of Orders by Year
+    
+![Sample Superstore Dashboard](https://github.com/AfnanAbouElwafa/Tableau-Dashboards/assets/60342798/beb7d523-0678-475a-a841-e3e8315e8177)
