@@ -1,1 +1,1 @@
-# Road Accident Dashboard #
+# Road Accidents Dashboard #
